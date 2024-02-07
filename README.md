@@ -2,6 +2,8 @@
  Uploading Data into Ms SQL database from Csvs 
 
  ### PDF Questionnaire  structure
+ [PDF Manual](R8_INDIVIDUAL_v4_55-.pdf)
+
 
 
  ### This project Details
