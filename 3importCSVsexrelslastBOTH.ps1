@@ -33,10 +33,10 @@ $LocalDatabasePWD = 'Adm!n123'
 
 
 #Cloud Database Connection Settings
-$CloudSQLServerInstance = 'sql5025.site4now.net'
-$CloudDatabaseName = 'DB_A1EF79_yzuhp'
-$CloudDatabaseUser = 'DB_A1EF79_yzuhp_admin'
-$CloudDatabasePWD = 'Adm!n123'
+$CloudSQLServerInstance = 
+$CloudDatabaseName =
+$CloudDatabaseUser = 
+$CloudDatabasePWD =
 
 # Database Table. Has to be identical table in both Databases
 $DatabaseTable = 'sexrelslast_7'
