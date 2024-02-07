@@ -30,12 +30,11 @@ $LocalDatabaseName = 'YZUHP'
 $LocalDatabaseUser = 'sa'
 $LocalDatabasePWD = 'Adm!n123'
 
-
 #Cloud Database Connection Settings
-$CloudSQLServerInstance = 'sql5025.site4now.net'
-$CloudDatabaseName = 'DB_A1EF79_yzuhp'
-$CloudDatabaseUser = 'DB_A1EF79_yzuhp_admin'
-$CloudDatabasePWD = 'Adm!n123'
+$CloudSQLServerInstance = 
+$CloudDatabaseName =
+$CloudDatabaseUser = 
+$CloudDatabasePWD =
 
 # Database Table. Has to be identical table in both Databases
 $DatabaseTable = 'clinicalpitc_7'
@@ -665,5 +664,5 @@ Finally
      $Time=Get-Date
      Write-Log "The process ended at $Time" -Path $LogFile -Level Info
     
-    #Send-MailMessage -From $From -to $To -Subject $Subject -Body $Body -SmtpServer $SMTPServer -port $SMTPPort -UseSsl -Credential (Get-Credential) -Attachments $Attachment –DeliveryNotificationOption OnSuccess
+    #Send-MailMessage -From $From -to $To -Subject $Subject -Body $Body -SmtpServer $SMTPServer -port $SMTPPort -UseSsl -Credential (Get-Credential) -Attachments $Attachment Â–DeliveryNotificationOption OnSuccess
 }
