@@ -1,5 +1,5 @@
 # PowerShell Scripting
- Uploading Data into Ms SQL database from Csvs 
+ Clean and Uploading Data from ODK Aggregate --> into Ms SQL database (Local and Cloud)  from Csv  files 
 
  ### PDF Questionnaire  structure
   [PDF Questionnaire](R8_INDIVIDUAL_v4_55-.pdf)  <br>
