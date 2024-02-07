@@ -2,12 +2,10 @@
  Uploading Data into Ms SQL database from Csvs 
 
  ### PDF Questionnaire  structure
- 
- <ul>
-  <li> [PDF Questionnaire](R8_INDIVIDUAL_v4_55-.pdf) </li>
-   <li> [xlsform Individual Qstnnaire for odk ](Round8Qstn.xlsx) </li>
-   <li> [xlsform HouseHold Qstnnaire for odk ](Round8HHQ-Final.xlsx) </li>
- </ul>
+  [PDF Questionnaire](R8_INDIVIDUAL_v4_55-.pdf) 
+   [xlsform Individual Qstnnaire for odk ](Round8Qstn.xlsx) 
+   [xlsform HouseHold Qstnnaire for odk ](Round8HHQ-Final.xlsx) 
+
 
 
  ### This project Details
